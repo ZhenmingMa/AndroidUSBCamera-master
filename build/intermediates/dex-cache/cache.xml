@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\usb4\AndroidUSBCamera-master\M3\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3d2413bac7a1fb2ff3889f5806e224d7cddce0f4">
+        <dex dex="G:\usb4\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\classes_47be2aa950d80de22ca65ca728009629907678ce.jar" />
+    </item>
+
+</items>
